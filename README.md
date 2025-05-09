@@ -1,6 +1,6 @@
 # 3D-CXNet and 1D-CXNet
 
-This repository provides an implementation of **D1D-CXNet and 3D-CXNet: Enhancing Accuracy in Non-Contact HR Monitoring with Limited Computational Resources** Journal paper. 
+This repository provides an implementation of **1D-CXNet and 3D-CXNet: Enhancing Accuracy in Non-Contact HR Monitoring with Limited Computational Resources** Journal paper. 
 The required dataset can be downloaded from the [UBFC-rPPG Dataset](https://sites.google.com/view/ybenezeth/ubfcrppg). Please download the dataset 2 realistic
 
 ## Steps for Running the Code
