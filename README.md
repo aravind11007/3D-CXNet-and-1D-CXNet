@@ -33,6 +33,3 @@ The required dataset can be downloaded from the [UBFC-rPPG Dataset](https://site
 
 
 
-### 6. Heart Rate Estimation
-- For heart rate estimation:
-  - Execute the `testing_live_stream.ipynb` file as described above.
