@@ -11,9 +11,10 @@ The required dataset can be downloaded from the [UBFC-rPPG Dataset](https://site
 - To prepare the data for 3D-CXNet, run the "Data_creation_3DCXNet" script to create data chunks for both training and testing. Make sure to update the saving_path variable to specify where you want to save the video chunks, and adjust the Data_path variable to point
   to the appropriate folder for either the training or testing data. You will need to run this data creation script twice: once with the Data_path set to the training folder and once for the testing folder. For 1D-CXNet, use the "Data_creation_1DCXNet" script to generate
   the data using the same above procedure.
+  
 
 
-For 1D-CXNet, use the "Data_creation_1DCXNet" script to generate the data.
+
 
 ### 2. Data Loader
 - Data Loader has been created for both 3D-CXNet and 1D-CXNet under the name Data_loader_3D-CXNet and Data_loader_1D-CXNet
